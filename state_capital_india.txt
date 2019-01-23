@@ -1,0 +1,36 @@
+Andra Pradesh,Amaravati
+Arunachal Pradesh,Itangar
+Assam,Dispur
+Bihar,Patna
+Chhattisgarh,Raipur
+Goa,Panaji
+Gujarat,Gandhinagar
+Haryana,Chandigarh
+Himachal Pradesh,Shimla
+Jammu&Kashmir,Srinagar&Jammu
+Jharkhand,Ranchi
+Karnataka,Bangalore
+Kerala,Thiruvananthapuram
+Madya Pradesh,Bhopal
+Maharashtra,Mumbai
+Manipur,Imphal
+Meghalaya,Shillong
+Mizoram,Aizawi
+Nagalan,Kohima
+Orissa,Bhubaneshwar
+Punjab,Chandigarh
+Rajasthan,Jaipur
+Sikkim,Gangtok
+Tamil Nadu,Chennai
+Telagana,Hyderabad
+Tripura,Agartala
+Uttaranchal,Dehradun
+Uttar Pradesh,Lucknow
+West Bengal,Kolkata
+Andaman Nicobar,Port Blair
+Chandigarh,Chandigarh
+Dadar Nagar Haveli,Silvassa
+Daman and Diu,Daman
+Delhi,Delhi
+Lakshadeep,Kavaratti
+Pondicherry,Pondicherry
